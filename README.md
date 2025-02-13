@@ -12,3 +12,4 @@ Feel free to use this code for learning or personal projects.(if you ever make i
 
 ## Developer Notes
 This is a static version of the project. A non-static version will be developed in the future.
+The  PDF is **not** mine; I found it while browsing Google for N5 exam resources.
