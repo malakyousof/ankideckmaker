@@ -69,5 +69,5 @@ print(f"Anki deck saved to {output_deck_file}")
 
 full_path = os.path.abspath(output_deck_file)
 
-# Print the path of the saved deck (notes do it i couldnt find the file lol)
+# Print the path (notes: do it i couldnt find the file lol)
 print(f"Anki deck saved to {full_path}")
